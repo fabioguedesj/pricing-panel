@@ -10,5 +10,5 @@ Interface minimalista que mostra 3 planos diferentes para determinado produto
 ## Preview
 
 <p align="center">
-  <img alt="Pricing Panel Preview" src="preview/Pricing-Panel.jpg" />
+  <img alt="Pricing Panel Preview" src="preview/PricingPanel.jpg" />
 </p>
